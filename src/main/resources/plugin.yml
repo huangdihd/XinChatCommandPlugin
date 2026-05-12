@@ -1,0 +1,5 @@
+name: ChatCommandLib
+version: 1.0.0
+main: com.example.chatcommand.ChatCommandLib
+description: "A library for registering standalone public and private chat commands."
+author: YourName
