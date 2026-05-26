@@ -1,4 +1,4 @@
-package com.example.chatcommand;
+package huangdihd.xinbot.chatcommand;
 
 import lombok.Getter;
 import xin.bbtt.mcbot.Bot;

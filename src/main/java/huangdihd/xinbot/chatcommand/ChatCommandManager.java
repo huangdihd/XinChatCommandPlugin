@@ -1,4 +1,4 @@
-package com.example.chatcommand;
+package huangdihd.xinbot.chatcommand;
 
 import java.util.Collection;
 import java.util.HashMap;
